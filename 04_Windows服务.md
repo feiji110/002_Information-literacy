@@ -22,4 +22,6 @@
 19. Themes：主题
 20. Windows Times :同步互联网的时间
 21. Windows Audio ： 声音
-22. 
+程序与功能
+安装服务
+关时安装启动更新

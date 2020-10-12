@@ -7,3 +7,4 @@
 | matplotlib练习 | [matplotlib](https://github.com/feiji110/002_Information-literacy/blob/master/matplotlib.py)|200922|
 | numpy| [numpy练习](https://github.com/feiji110/002_Information-literacy/blob/master/200920numpy.py)|200920|
 | pandas| [pandas练习](https://github.com/feiji110/002_Information-literacy/blob/master/200928pandas.py)|200920|)|200928|
+| sklearn| [preprocessing练习](https://github.com/feiji110/002_Information-literacy/blob/master/201012preprocessing.ipynb)|201012|)|201012|
